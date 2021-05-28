@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F04DEE626619F280030E510 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F04DEE526619F280030E510 /* Constants.swift */; };
 		6F59EEF1263D51E6001DD25F /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F59EEF0263D51E6001DD25F /* WeatherManager.swift */; };
 		6FB51F27264136FE003EA3A4 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB51F26264136FE003EA3A4 /* WeatherData.swift */; };
 		6FB51F2A26428AB5003EA3A4 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB51F2926428AB5003EA3A4 /* WeatherModel.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F04DEE526619F280030E510 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		6F59EEF0263D51E6001DD25F /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		6FB51F26264136FE003EA3A4 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		6FB51F2926428AB5003EA3A4 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		ADAA27A4231BBFAF00365194 = {
 			isa = PBXGroup;
 			children = (
+				6F04DEE526619F280030E510 /* Constants.swift */,
 				ADAA27CD231BC87F00365194 /* README.md */,
 				ADAA27AF231BBFAF00365194 /* Clima */,
 				ADAA27AE231BBFAF00365194 /* Products */,
@@ -138,7 +141,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ADAA27A8231BBFAF00365194 /* Build configuration list for PBXProject "Clima" */;
+			buildConfigurationList = ADAA27A8231BBFAF00365194 /* Build configuration list for PBXProject "clima" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -179,6 +182,7 @@
 				6FB51F27264136FE003EA3A4 /* WeatherData.swift in Sources */,
 				ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */,
 				6F59EEF1263D51E6001DD25F /* WeatherManager.swift in Sources */,
+				6F04DEE626619F280030E510 /* Constants.swift in Sources */,
 				6FB51F2A26428AB5003EA3A4 /* WeatherModel.swift in Sources */,
 				ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */,
 			);
@@ -357,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADAA27A8231BBFAF00365194 /* Build configuration list for PBXProject "Clima" */ = {
+		ADAA27A8231BBFAF00365194 /* Build configuration list for PBXProject "clima" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADAA27BF231BBFB300365194 /* Debug */,

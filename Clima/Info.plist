@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>api key</key>
+	<string>b2864dd641e7398cdb8a209fedb4cfa1</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Location needed to provide current weather data</string>
 	<key>LSApplicationCategoryType</key>
